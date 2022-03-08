@@ -16,13 +16,21 @@ Este projeto tem como objetivo resolver exercícios de juízes online utilizando
 
 ### Problema Aizu Knapsack
 
+[Link para o problema](https://onlinejudge.u-aizu.ac.jp/problems/DPL_1_B)
+
+
 ![aizu kanpsack](./.github/aizu_knapsack.png)
 
 ### Problema Uri 1286
 
+[Link para o problema](https://www.beecrowd.com.br/judge/pt/problems/view/1286)
+
+
 ![1286](./.github/1286.png)
 
 ### Problema Uri 1288
+
+[Link para o problema](https://www.beecrowd.com.br/judge/pt/problems/view/1288)
 
 ![aizu kanpsack](./.github/1288.png)
 
