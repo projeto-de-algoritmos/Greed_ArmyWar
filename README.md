@@ -12,6 +12,10 @@
 ## Sobre 
 Este projeto tem como objetivo resolver exercícios de juízes online utilizando algoritmos ambiciosos.
 
+## Apresentação
+
+[Link para a apresentação no youtube](https://youtu.be/BHkQSt82YD8). A apresentação também está em formato mp4 na raiz do repositório.
+
 ## Screenshots
 
 ### Problema Aizu Knapsack
