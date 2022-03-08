@@ -21,7 +21,7 @@ while True:
   # number of orders
   n = int(input())
 
-  # end conditino
+  # end condition
   if n==0:
     break
 
