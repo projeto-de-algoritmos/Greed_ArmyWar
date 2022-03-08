@@ -1,3 +1,7 @@
+# Motoboy Problem
+# problem link: https://www.beecrowd.com.br/judge/pt/problems/view/1286
+
+
 # knap sack algorithm implementation
 def knapSack(W, wt, val, n): 
     K = [[0 for x in range(W + 1)] for x in range(n + 1)] 
